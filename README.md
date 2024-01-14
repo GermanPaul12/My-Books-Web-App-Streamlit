@@ -18,15 +18,17 @@ You can either setup your own local environment or use this link: ![Web-App](htt
 
 1. **Clone the Repository:**
    ```git clone https://github.com/GermanPaul12/[repository-name].git
-   cd [repository-name]```
+   cd [repository-name]
+   ```
 
 2. **Set up a Virtual Environment (Optional):**
    ```python -m venv venv 
    source venv/bin/activate  # For Unix or MacOS
-   venv\Scripts\activate``` # For Windows```
-
+   venv\Scripts\activate # For Windows
+    ```
 3. **Install Dependencies:**
-   ```pip install -r requirements.txt```
+   ```pip install -r requirements.txt
+   ```
 
 4. **Run the Streamlit App:**
    ```streamlit run app.py```
