@@ -14,7 +14,7 @@ Welcome to my GitHub repository where I share the exciting journey of my reading
 ## Installation & Usage
 
 To run this Streamlit app on your local machine, follow these steps:
-You can either setup your own local environment or use this link: ![Web-App](https://my-books.streamlit.app/)
+You can either setup your own local environment or use this link: [Web-App](https://my-books.streamlit.app/)
 
 1. **Clone the Repository:**
    ```git clone https://github.com/GermanPaul12/[repository-name].git
@@ -22,13 +22,14 @@ You can either setup your own local environment or use this link: ![Web-App](htt
    ```
 
 2. **Set up a Virtual Environment (Optional):**
-   ```python -m venv venv 
+   ```
+   python -m venv venv 
    source venv/bin/activate  # For Unix or MacOS
    venv\Scripts\activate # For Windows
     ```
+
 3. **Install Dependencies:**
-   ```pip install -r requirements.txt
-   ```
+   ```pip install -r requirements.txt```
 
 4. **Run the Streamlit App:**
    ```streamlit run app.py```
