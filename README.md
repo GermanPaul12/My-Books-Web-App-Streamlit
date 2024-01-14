@@ -14,7 +14,6 @@ Welcome to my GitHub repository where I share the exciting journey of my reading
 ## Installation & Usage
 
 To run this Streamlit app on your local machine, follow these steps:
-You can either setup your own local environment or use this link: [Web-App](https://my-books.streamlit.app/)
 
 1. **Clone the Repository:**
    ```git clone https://github.com/GermanPaul12/[repository-name].git
@@ -29,10 +28,14 @@ You can either setup your own local environment or use this link: [Web-App](http
     ```
 
 3. **Install Dependencies:**
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
 4. **Run the Streamlit App:**
-   ```streamlit run app.py```
+   ```
+   streamlit run app.py
+   ```
 
 5. **Open the Web App:**
    Navigate to `http://localhost:8501` in your web browser.
