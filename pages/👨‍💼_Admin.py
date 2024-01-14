@@ -30,13 +30,20 @@ if pwd == st.secrets["PW"]:
     with st.expander("Delete books"):
         with open("data/data.csv", "r", encoding="utf8") as f:
             data = f.readlines()
-            books = [line.split(",")[0] for line in data[1:]]
-            book = st.selectbox("Select book to delete", books)
-            if st.button("Delete"):
-                with open("data/data.csv", "w", encoding="utf8") as f:
-                    f.write("title,author,img_path,subject")
-                    for line in data[1:]:
-                        if line.split(",")[0] != book:
-                            f.write(line)
-                st.success("Book deleted successfully")        
+            col1, col2 = st.columns(2)
+            with col1:
+                books = [f'{line.split(",")[0]} by {line.split(",")[1]}' for line in data[1:]]
+                book = st.selectbox("Select book to delete", books)
+                for line in data[1:]:
+                    if f'{line.split(",")[0]} by {line.split(",")[1]}' == book:
+                        img_file_name = line.split(",")[2]
+                if st.button("Delete"):
+                    with open("data/data.csv", "w", encoding="utf8") as f:
+                        f.write("title,author,img_path,subject")
+                        for line in data[1:]:
+                            if f'{line.split(",")[0]} by {line.split(",")[1]}' != book:
+                                f.write(line)
+                    st.success("Book deleted successfully")       
+            with col2:
+                st.image(f"data/img/{img_file_name}", width=200)             
 elif pwd != "": st.warning("Wrong password")    
