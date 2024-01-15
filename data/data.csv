@@ -1,26 +1,26 @@
 title,author,img_path,subject
-Atomic Habits,James Clear,Atomic Habits.jpg,Habit
-Perfume,Patrick Süskind,Perfume.jpg,Historical fiction
-How to win friends and influence people,Dale Carnegie,How to win friends and influence people.jpg,Succès
-Who Moved My Cheese?,Spencer Johnson,WhoMovedMyCheese.jpg,Change (psychology)
-The Alchemist,Paulo Coelho,TheAlchemist.jpg,Translations into Indonesian
-Sapiens,Yuval Noah Harari,Sapiens.jpg,Technology and civilization
-Never Split the Difference,Chris Voss,NeverSplittheDifference.jpg,Hostage negotiations
-The Richest Man in Babylon,George S. Clason,TheRichestManinBabylon.jpg,Business ethics
-Ego is the Enemy,Ryan Holiday,EgoistheEnemy.jpg,Conduct of life
-The obstacle is the way,Ryan Holiday,Theobstacleistheway.jpg,Self-realization
-Stillness is the Key,Ryan Holiday,StillnessistheKey.jpg,Stoicism
-The daily stoic,Ryan Holiday,Thedailystoic.jpg,Meditations
-On the Shortness of Life,Lucius Annaeus Seneca,OntheShortnessofLife.jpg,Stoicism
-What every BODY is saying,Joe Navarro,WhateveryBODYissaying.jpg,Nonverbal communication
-How to Talk to Anyone,Leil Lowndes,HowtoTalktoAnyone.jpg,Interpersonal communication
-Discipline is Destiny,Ryan Holiday,DisciplineisDestiny.jpg,Stoicism
-Ikigai,Héctor García,Ikigai.jpg,Ikigai
-The Art of Statistics,David Spiegelhalter,TheArtofStatistics.jpg,Statistics
-The monk who sold his Ferrari,Robin S. Sharma,ThemonkwhosoldhisFerrari.jpg,Fiction
-The Almanack of Naval Ravikant,Eric Jorgenson,TheAlmanackofNavalRavikant.jpg,Self-Development
-When Nietzsche wept,Irvin D. Yalom,WhenNietzschewept.jpg,Fiction
-Schachnovelle,Stefan Zweig,Schachnovelle.jpg,Chess
-Animal Farm,George Orwell,AnimalFarm.jpg,Fiction
-One Hundred Years of Solitude,Gabriel García Márquez,OneHundredYears.jpg,Spanish language books
-Rich Dad Poor Dad,Robert Kiyosaki,RichDadPoorDad.jpg,Finance advice
+Atomic Habits,James Clear,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Atomic Habits.jpg?raw=true,Habit
+Perfume,Patrick Süskind,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Perfume.jpg?raw=true,Historical fiction
+How to win friends and influence people,Dale Carnegie,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/How to win friends and influence people.jpg?raw=true,Succès
+Who Moved My Cheese?,Spencer Johnson,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/WhoMovedMyCheese.jpg?raw=true,Change (psychology)
+The Alchemist,Paulo Coelho,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/TheAlchemist.jpg?raw=true,Translations into Indonesian
+Sapiens,Yuval Noah Harari,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Sapiens.jpg?raw=true,Technology and civilization
+Never Split the Difference,Chris Voss,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/NeverSplittheDifference.jpg?raw=true,Hostage negotiations
+The Richest Man in Babylon,George S. Clason,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/TheRichestManinBabylon.jpg?raw=true,Business ethics
+Ego is the Enemy,Ryan Holiday,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/EgoistheEnemy.jpg?raw=true,Conduct of life
+The obstacle is the way,Ryan Holiday,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Theobstacleistheway.jpg?raw=true,Self-realization
+Stillness is the Key,Ryan Holiday,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/StillnessistheKey.jpg?raw=true,Stoicism
+The daily stoic,Ryan Holiday,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Thedailystoic.jpg?raw=true,Meditations
+On the Shortness of Life,Lucius Annaeus Seneca,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/OntheShortnessofLife.jpg?raw=true,Stoicism
+What every BODY is saying,Joe Navarro,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/WhateveryBODYissaying.jpg?raw=true,Nonverbal communication
+How to Talk to Anyone,Leil Lowndes,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/HowtoTalktoAnyone.jpg?raw=true,Interpersonal communication
+Discipline is Destiny,Ryan Holiday,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/DisciplineisDestiny.jpg?raw=true,Stoicism
+Ikigai,Héctor García,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Ikigai.jpg?raw=true,Ikigai
+The Art of Statistics,David Spiegelhalter,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/TheArtofStatistics.jpg?raw=true,Statistics
+The monk who sold his Ferrari,Robin S. Sharma,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/ThemonkwhosoldhisFerrari.jpg?raw=true,Fiction
+The Almanack of Naval Ravikant,Eric Jorgenson,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/TheAlmanackofNavalRavikant.jpg?raw=true,Self-Development
+When Nietzsche wept,Irvin D. Yalom,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/WhenNietzschewept.jpg?raw=true,Fiction
+Schachnovelle,Stefan Zweig,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/Schachnovelle.jpg?raw=true,Chess
+Animal Farm,George Orwell,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/AnimalFarm.jpg?raw=true,Fiction
+One Hundred Years of Solitude,Gabriel García Márquez,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/OneHundredYears.jpg?raw=true,Spanish language books
+Rich Dad Poor Dad,Robert Kiyosaki,https://github.com/GermanPaul12/My-Books-Web-App-Streamlit/blob/main/data/img/RichDadPoorDad.jpg?raw=true,Finance advice
