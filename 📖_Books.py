@@ -2,7 +2,8 @@ import streamlit as st
 from google.cloud import firestore
 
 # Authenticate to Firestore with the JSON account key.
-db = firestore.Client.from_service_account_json("data/firestore-key.json")
+fb_credentials = st.secrets["firebase"]['my_project_settings'] # returns a dictionary
+db = firestore.Client.from_service_account_info(fb_credentials)
 
 # PageConfig
 st.set_page_config(page_title='Books', page_icon='📖', layout="wide")
