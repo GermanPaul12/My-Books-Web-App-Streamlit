@@ -10,6 +10,7 @@ Welcome to my GitHub repository where I share the exciting journey of my reading
 
 - **Streamlit:** For creating the web app.
 - **Python:** Backend logic for data handling and app functionality.
+- **Firebase:** Database to save and manage books.
 
 ## Installation & Usage
 
